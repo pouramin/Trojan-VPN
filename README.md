@@ -1,6 +1,7 @@
 # Trojan-VPN-Congfig. کانفیگ و راه اندازی تروجان وی پی ان
 
 --------------
+
 #لینک ویدیو :
 
 
@@ -15,6 +16,7 @@
 #EU-Server
 
 #sudo apt-get update -y
+
 #sudo apt-get upgrade -y
 
 #sudo apt install curl -y
