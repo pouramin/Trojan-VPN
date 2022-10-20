@@ -38,7 +38,9 @@
 
 #sudo add-apt-repository ppa:certbot/certbot
 
-#sudo apt-get install certbotsudo certbot certonly --standalone --preferred-challenges http --agree-tos --email your-email-address -d test.example.com
+#sudo apt-get install certbot
+
+#sudo certbot certonly --standalone --preferred-challenges http --agree-tos --email your-email-address -d test.example.com
 
 --------------------------
 
