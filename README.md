@@ -2,15 +2,26 @@
 
 --------------
 
-#لینک ویدیو :
+#لینک ویدیو : https://namecheap.pxf.io/BX7m6W
 
+---------------------------------------
 
+#خرید دامنه از نیم چیپ: https://namecheap.pxf.io/BX7m6W
+
+#خرید دامنه سایت ایرانی: https://www.hub.shatelhost.com/aff.php?aff=290
+
+#خرید سرور از دیجیتال اوشن : https://m.do.co/c/0fb522deafa4
+
+#خرید سرور از سایت ایرانی : https://berbidserver.com/portal/aff.php?aff=53
+
+#خرید سرور از سایت ایرانی : https://dashboard.azaronline.com/order/?aff=790
 
 ----------------
 
 #Setup and configuration of Trojan-VPN . کانفیگ و راه اندازی تروجان
 
 ------------
+
 #درصورتی که از یوزر روت استفاده میکنید سودو اول هر اسکریپت رو لازم نیست وارد کنید.
 
 #EU-Server
