@@ -8,10 +8,10 @@
 
 ----------------
 
-#Setup and configuration of V2ray . کانفیگ و راه اندازی v2ray
+#Setup and configuration of Trojan-VPN . کانفیگ و راه اندازی تروجان
 
 ------------
-
+#درصورتی که از یوزر روت استفاده میکنید سودو اول هر اسکریپت رو لازم نیست وارد کنید.
 
 #EU-Server
 
@@ -19,28 +19,16 @@
 
 #sudo apt-get upgrade -y
 
-#sudo apt install curl -y
+#sudo wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 
-#sudo bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+#این نسخه دوتا زبان چینی و انگلیسی داره، که من از زبان چینی استفاده کردم. چرا که به روزتره همیشه.
 
--------------
+#شما میتونید از هرکدوم که دوست دارید استفاده کنید، من لینک شو میذارم براتون :
 
-#Admin-Panel. آدرس پنل مدیریت
+#https://github.com/mack-a/v2ray-agent
 
-#EU_IP:54321
+#توی ویدیو طریقه ی ست آپ و کانفیگ مرحله به مرحله هست، طریقه اضافه کردن کاربر، ساخت سابسکریپشن و تغییر پورت سرور هم هستش.
 
--------------------
-
-
-#CRT-BOT
-
-#apt install software-properties-common
-
-#sudo add-apt-repository ppa:certbot/certbot
-
-#sudo apt-get install certbot
-
-#sudo certbot certonly --standalone --preferred-challenges http --agree-tos --email your-email-address -d test.example.com
 
 --------------------------
 
