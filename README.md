@@ -17,7 +17,7 @@ https://namecheap.pxf.io/BX7m6W
 ###### خرید دامنه سایت ایرانی:
 
 ```
-https://www.hub.shatelhost.com/aff.php?aff=290
+https://dashboard.azaronline.com/order/?aff=790&p=domain
 ```
 
 ###### خرید سرور از دیجیتال اوشن : 
@@ -25,14 +25,10 @@ https://www.hub.shatelhost.com/aff.php?aff=290
 https://m.do.co/c/0fb522deafa4
 ```
 
-###### خرید سرور از سایت ایرانی : 
-```
-https://berbidserver.com/portal/aff.php?aff=53
-```
 
 ###### خرید سرور از سایت ایرانی : 
 ```
-https://dashboard.azaronline.com/order/?aff=790
+https://dashboard.azaronline.com/order/?aff=790&p=vps
 ```
 
 ----------------
